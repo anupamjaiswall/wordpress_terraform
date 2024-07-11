@@ -4,8 +4,6 @@
 3. The script should also perform deployment and take the latest image of WordPress from Docker.
 4. The WordPress application should be exposed on port 80.
 5. Create an Elastic IP and attach it to the EC2 instance.
-6. The Terraform script should be uploaded to a public GitHub repository.
-7. The repository's README file should be updated with all the necessary instructions to run the script, including the requirements, deployment steps, and any other relevant details.
 
 ## Requirements
 1. install terraform and aws-cli on your machine.
